@@ -1,0 +1,33 @@
+@font-face {font-family: "iconfont";
+  src: url('../media/iconfont.eot?t=1583817815739'); /* IE9 */
+  src: url('../media/iconfont.eot?t=1583817815739#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPUAAsAAAAACFwAAAOFAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDMgqDaIM0ATYCJAMUCwwABCAFhG0HWhtSB8iemjxBVMtirCEqWAvmA/EjHr7Wyvcb5mZ694BVAEAClj8VcIQqli2Q0IkSORfhsDwbsX/t196Zd3Rpfqgt4rL/xPcvaokh9BtCoZlMF/XE0BgIsN29j5lWNSVLwUYQmFIUofFfpd9k65/gHwz/c8x4a8H8tjXIFLOCgvYGOEqg2azqIoLsDuRE/YaxKy/iZgLNRsEEF7ILK0GuMDYF4qHJ0AbylFGpqQy90JWcWMQHEn162WwB7/3fj/8iQk5SM+NWa0NWJ+ASWTLji/pCY3xhdDw72Glk7AcK8ajU+ZAoTO4n0pT5YmeAppeksaYlFFwyayWW7kjdzH94hCQrRMcoH4MzKFX4FWlTCX4lUEn8wlQyvzLFL+Y2FTTM4g2AL0i7fczcTpKHsYEfysNWxfJhRSy+M38wdji9P7pXfR9VPsdV+bQmndRaOp854CVf5z0dNd9nlc95Vb6sSRcD6+ro2vTG2LpTE2N28o54po6Ur26vNhC/2FW614dAcl1j/Bi00cxHfUqlqKWLScQg+JRzrmM/qviaZrsGZZrNl7V59qoq2uQXVeUmk/9/RrhSJzjPc/lOU5y7Nqs9+2I6m+dLw1znmu4v8TmT5/JQEy+G4+luiexwo0fKKB7dBMzOu02Fx9Y0P+/Xwew6Evj1m283AIPjimTYmgGjubnXb+8/+HdmXse0MDK7Jbm5paW2TnLGiAnWrNZSJBNQHpS58Umb7tQeIzyysYlP6AX25vXmBRN5jAgAHwWIq8Zg/8nHp0Vhi+7Er1xVwM+ZrBoYnCj6pXqJ1qLfKmrZUVSJYapFbrWFcqg67Kcpk9LX8DO9C27GUS+3jhP6lIhBMmUDZL3tiILZD9XIcej0TkOzT87pI4sokSgD9poCEObMQTLjM2RzthEFcw3Vim/ozIUImoth8YIjO8OkPE9JGyOdqL0PmTocds6yMGVQWU4MXdY2mpT4hGpCeVMEhevDspkcYid0jD18tyGCMQ5x1GFD2eB2xGp1ICd1mEkH0xsZcyaEhnJl36TvcNhA6TyKaMMQnZB2fRCTDg52nNubUeZ+vhxh0MWqDa1pq3BWIyieaXIknF5YC0SO0t6q7Vpew+tmEIFhOAiHcrBBsoGdsJpJB8RZvsyM6MDoGXvEnRKEom5cW6V+frXtGY9BYyyukSJHiRqd4eRDIYzwtyUMO8IpV4QjEgAAAAA=') format('woff2'),
+  url('../media/iconfont.woff?t=1583817815739') format('woff'),
+  url('../media/iconfont.ttf?t=1583817815739') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('../media/iconfont.svg?t=1583817815739#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-icon-test:before {
+  content: "\e633";
+}
+
+.icon-icon-test1:before {
+  content: "\e63a";
+}
+
+.icon-icon-test2:before {
+  content: "\e640";
+}
+
+.icon-icon-test3:before {
+  content: "\e644";
+}
+
