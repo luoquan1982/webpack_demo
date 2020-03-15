@@ -12,7 +12,8 @@ module.exports = {
   entry: {
     // 最终打包生成的[name] --> jquery
     // ['jquery'] --> 要打包的库是jquery
-    jquery: ["jquery"]
+    jquery: ["jquery"],
+    // react: ["react", "react-dom", "react-router-dom"]
   },
   output: {
     filename: "[name].js",
